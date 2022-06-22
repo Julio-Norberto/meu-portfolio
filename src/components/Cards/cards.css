@@ -1,0 +1,26 @@
+.cards {
+    text-align: center;
+    width: 33%;
+    margin-bottom: 100px;
+}
+
+.cards img {
+    margin-bottom: 25px;
+}
+
+.cards h2 {
+    margin-bottom: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 4px;
+    font-weight: 400;
+    font-size: 27px;
+}
+
+.cards p {
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 27px;
+}
