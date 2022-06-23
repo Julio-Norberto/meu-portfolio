@@ -1,0 +1,41 @@
+.mid {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.site-phone {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.site-phone h2 {
+    font-size: 45px;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.text-mid {
+    width: 50%;
+    background: url(../../assets/mid-left2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 750px;
+}
+
+.text-mid p {
+    max-width: 80%;
+    text-align: center;
+    margin-top: 40%;
+    margin-left: 10%;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
