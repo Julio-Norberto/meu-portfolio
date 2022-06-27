@@ -1,0 +1,17 @@
+.techStack {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.title-stack {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 250px;
+    font-size: 30px;
+    max-width: 50%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+    letter-spacing: 4px;
+}
