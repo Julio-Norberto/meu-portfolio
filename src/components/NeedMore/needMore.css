@@ -1,0 +1,32 @@
+.needMore {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.needMore h2 {
+    font-size: 50px;
+    font-family: 'Roboto Condensed';
+    margin-bottom: 40px;
+}
+
+.sobre {
+    width: 80px;
+    font-size: 18px;
+    letter-spacing: 6px;
+    text-decoration: none;
+    border: 2px solid white;
+    color: white;
+    font-family: 'Roboto';
+}
+
+.sobre:hover {
+    background-color: white;
+    color: black;
+}
