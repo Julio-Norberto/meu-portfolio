@@ -35,7 +35,7 @@ export default function Caracteristicas() {
 
             </div>
 
-            <a className="sobre-carac" href="">Sobre</a>
+            <a target={'_blank'} className="sobre-carac" href="https://www.linkedin.com/in/julio-norberto/">Sobre</a>
         </section>
     )
 }
