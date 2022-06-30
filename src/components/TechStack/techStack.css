@@ -15,3 +15,13 @@
     font-size: 45px;
     letter-spacing: 4px;
 }
+
+@media (max-width: 400px) {
+    .techStack {
+        flex-direction: column;
+    }
+
+    .title-stack {
+        max-width: 100%;
+    }
+}

@@ -15,7 +15,8 @@ export default function Mid() {
             
 
             <div className="text-mid">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta aperiam, odio molestiae perspiciatis illo eaque ratione accusantium inventore doloribus explicabo tempore, aut consequuntur adipisci, incidunt unde praesentium numquam magnam placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque molestiae cupiditate odit iusto dolores mollitia culpa quo optio iste, deserunt ratione quibusdam vero. Unde obcaecati natus eligendi quae exercitationem. Enim.
+                <p>
+                Meu objetivo é usar as habilidades que possuo, na área em que sou apaixonado, para desenvolver utilidade; utilidade para as pessoas, para a sociedade, para o mundo! É nesse contexto que insiro a programação, uma das poucas áreas onde você pode transportar o mundo digital para o físico - e é essa particularidade que me encanta; com ela, sei que posso construir aplicações que impactem, diretamente e de forma positiva, as pessoas ao meu redor.
                 </p> 
             </div>
 

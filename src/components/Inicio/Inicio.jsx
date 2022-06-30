@@ -15,7 +15,7 @@ export default function Inicio() {
                     <h3>Júlio Norberto</h3>
                     <h1>DEV FRONT-END</h1>
 
-                    <span> <a className='sobre' href="">Sobre</a> </span> <span className='espacamento-links'>ou</span> <span> <a className='contato' href="">Contato</a> </span>
+                    <span className='links'> <a className='sobre' href="">Sobre</a> </span> <span className='espacamento-links'>ou</span> <span> <a className='contato' href="">Contato</a> </span>
                 </div>
                 
             </div>

@@ -30,3 +30,14 @@
     background-color: white;
     color: black;
 }
+
+@media (max-width: 400px) {
+    .needMore h2 {
+        font-size: 30px;
+    }
+
+    .sobre {
+        width: 60px;
+        font-size: 15px;
+    }
+}

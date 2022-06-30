@@ -1,5 +1,6 @@
 .InfoValues {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     width: 80%;
     margin: 0 auto;
@@ -7,12 +8,13 @@
 }
 
 .box {
-    height: 250px;
+    height: 300px;
     width: 400px;
     background-color: rgb(232, 232, 232);
     border: none;
     border-radius: 8px;
     font-family: 'Roboto' sans-serif;
+    margin-bottom: 15px;
 }
 
 .box h1 {
@@ -28,4 +30,10 @@
     text-align: justify;
     margin: 0 auto;
     color: rgb(135, 135, 135);
+}
+
+@media (max-width: 800px) {
+    .box {
+        margin: 15px auto;
+    }
 }

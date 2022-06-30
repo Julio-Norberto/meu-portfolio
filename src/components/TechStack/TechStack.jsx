@@ -18,13 +18,13 @@ export default function TechStack() {
                 <Cards 
                     icon={html5}
                     title='HTML5'
-                    desc='Linguagem de marcação de texto'
+                    desc='Linguagem de marcação de hipertexto'
                 />
 
                 <Cards 
                     icon={css3}
                     title='CSS3'
-                    desc='Folha de estilo em cascata para estilização'
+                    desc='Folha de estilo em cascatas utilizada na estilização de componentes.'
                 />
 
                 <Cards 
@@ -36,7 +36,7 @@ export default function TechStack() {
                 <Cards 
                     icon={reactIcon}
                     title='React'
-                    desc='Framework JavaScript para desenvolvimento Front-end'
+                    desc='Biblioteca JavaScript para desenvolvimento de interfaces'
                 />
 
                 <Cards 

@@ -58,3 +58,74 @@
     margin: 0 60px;
     font-size: 25px;
 }
+
+@media (max-width: 750px) {
+    .imagem-mac {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .frontend {
+        margin: 0 auto;
+    }
+
+    .frontend h1 {
+        font-size: 30px;
+    }
+
+    .frontend a {
+        font-size: 12px;
+    }
+
+    .espacamento-links {
+        margin: 0 10px;
+        font-size: 15px;
+    }
+
+    .sobre {
+        padding: 13px 25px;
+    }
+
+    .contato {
+        padding: 13px 15px;
+    }
+}
+
+@media (min-width: 751px) and (max-width: 900px) {
+    .imagem-mac {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .frontend {
+        margin: 0 auto;
+        margin-right: 115px;
+    }
+
+    .frontend h1 {
+        font-size: 40px;
+    }
+
+    .frontend a {
+        font-size: 18px;
+    }
+
+    .espacamento-links {
+        margin: 0 50px;
+        font-size: 15px;
+    }
+
+    .sobre {
+        padding: 13px 28px;
+    }
+
+    .contato {
+        padding: 13px 15px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1500px) {
+    .imagem-mac {
+        background-position: center;
+    }
+}

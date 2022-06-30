@@ -13,12 +13,12 @@ export default function LatestWorks() {
             <h2 className="title-latest">Últimos trabalhos</h2>
 
             <div className="latest">
-                <img className="mt" height={300} width={400} src={blog} alt="" />
-                <img height={300} width={400} src={coffee} alt="" />
-                <img height={300} width={400} src={finans} alt="" />
-                <img height={300} width={400} src={nfts} alt="" />
-                <img height={300} width={400} src={valentes} alt="" />
-                <img height={300} width={400} src={starbucks} alt="" />
+                <img className="mb" height={300} width={400} src={blog} alt="" />
+                <img className="mb" height={300} width={400} src={coffee} alt="" />
+                <img className="mb" height={300} width={400} src={finans} alt="" />
+                <img className="mb" height={300} width={400} src={nfts} alt="" />
+                <img className="mb" height={300} width={400} src={valentes} alt="" />
+                <img className="mb" height={300} width={400} src={starbucks} alt="" />
             </div>
         </section>
     )
