@@ -19,6 +19,7 @@
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 500;
     margin-top: 20px;
+    margin-bottom: 40px;
 }
 
 .text-mid {
@@ -88,5 +89,16 @@
     .text-mid p {
         font-size: 15px;
         margin-top: 40%;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 980px) {
+    .site-phone h2 {
+        font-size: 30px;
+    }
+
+    .text-mid p {
+        font-size: 14px;
+        margin-top: 50%;
     }
 }

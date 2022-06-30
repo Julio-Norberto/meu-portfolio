@@ -1,6 +1,6 @@
 import React from "react";
 import './mid.css'
-import phone2 from '../../assets/phone-2.png'
+import phone3 from '../../assets/phone3.png'
 
 export default function Mid() {
     return (
@@ -9,7 +9,7 @@ export default function Mid() {
             <div className="site-phone">
                 <h2>Foco na excelência da criação de cada site</h2>
 
-                <img width={350} src={phone2} alt="" />
+                <img width={350} src={phone3} alt="" />
             </div>
 
             
